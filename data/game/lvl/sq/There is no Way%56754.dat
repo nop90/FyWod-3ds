@@ -1,0 +1,46 @@
+WWWWWWWWWWWWW
+W/////$/////W
+W##<<<<<<<##W
+W//-----////W
+W//--##-////W
+W/////>#////W
+W///////////W
+W/////$/////W
+WR+++++++++RW
+WR+++++++++RW
+WR/////////RW
+WR////$////RW
+WWWWWWWWWWWWW
+
+
+[start]
+	direction = 90
+
+[size]
+	w = 13
+	h = 13	
+	
+[total]
+	bronze = 12500
+	silver = 17500
+	gold = 25000
+
+[time]
+	max = 5000
+	bronze = 4000
+	silver = 3000
+	gold = 2000
+	
+[whits]
+	max = 3
+	bronze = 3
+	silver = 2
+	gold = 1
+	
+[coins]
+	bronze = 1
+	silver = 2
+	gold = 2
+	
+[complete]
+	medal = 1

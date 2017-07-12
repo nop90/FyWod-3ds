@@ -1,0 +1,14 @@
+Name: Fy.WoD!
+License: GPL
+From: Schnatterplatsch / Copyrightfree sound sources
+Contact: Schnatterplatsch@t-online.de; Schnatter at gp32spain.com; Schnatterplatsch at gp32x.com and gp2x.de
+
+GP2X F100/F200 version by Farox .
+3ds version by nop90
+
+Description / Manual:
+Fy.WoD! is some kind of racing game. You do not fight against other racers but only against time and the level itsself. What may be more difficult than you think. Infact this game is made to frustate you!
+On the galactic map you have to clear all maps on the way to the "Champion" - Map( or reach the million totalpoints ). To complete a map you have to fullfill a certain level in all categories. Maps get more difficult the farer you step on. 
+In the map itself you have to find your way to the target destination as fast as possible, collect coins, not get killed and don't run out of fuel. Fuel is important: The less you have, the less you weight and the faster you accelerate. The slow motion  (activate with "L") costs you tons of it. 
+
+The rest is explained in the game or so easy to see, that I would waste my words on it.

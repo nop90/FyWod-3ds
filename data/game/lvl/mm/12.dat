@@ -1,0 +1,48 @@
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+B/GGGGGGGGGGGGGGGGGGGGGGGGGGG/B
+B//GGGGGGGGGGGGGGGGGGGGGGGGG//B
+B///GGGGGGGGGGGGGGGGGGGGGGG///B
+B////GGGGGGGGGGGGGGGGGGGGG////B
+B<<<<<GGGGGGGGGGGGGGGGGGG///>/B
+B#/////GGGGGGGGGGGGGGGGG//////B
+BG//////GGGGGGGGGGGGGGG//////GB
+BGG///$//GGGGGGGGGGGGG//////GGB
+BGGG//////GGGGGGGGGGG///$//GGGB
+BGGGG///////GGGGGGG///////GGGGB
+BGGGG/////$///GGG/////////GGGGB
+BGGGGG/////////G/////$///GGGGGB
+BGGGGGG#///////+///////#GGGGGGB
+BGGGGGGG#//////+//////#GGGGGGGB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+
+[start]
+	direction = 230
+
+[size]
+	w = 31
+	h = 16
+	
+[total]
+	bronze = 5000
+	silver = 4000
+	gold = 3000
+
+[time]
+	max = 6000
+	bronze = 4000
+	silver = 3000
+	gold = 2500
+	
+[whits]
+	max = 2
+	bronze = 2
+	silver = 1
+	gold = 0
+	
+[coins]
+	bronze = 1
+	silver = 2
+	gold = 4
+	
+[complete]
+	medal = 1

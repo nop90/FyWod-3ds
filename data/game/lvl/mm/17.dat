@@ -1,0 +1,45 @@
+BBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBB>BBBBBBBBBBBB
+BBBBBBBBBBB///BBBBBBBBBBB
+BBBBBBBBBBB///BBBBBBBBBBB
+BBBBBBBBBB/////BBBBBBBBBB
+BBBBBBBB//$++///BBBBBBBBB
+BBBBBBB////##////BBBBBBBB
+BBBBBB////####//$/BBBBBBB
+BBBBBB///######///BBBBBBB
+BBBBBBB/$//////$/BBBBBBBB
+BBBBBBBBB<<<<<<BBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBB
+
+[start]
+	direction = 270
+
+[size]
+	w = 25
+	h = 13
+	
+[[total]
+	bronze = 10000
+	silver = 25000
+	gold = 50000
+
+[time]
+	max = 5000
+	bronze = 4000
+	silver = 3000
+	gold = 2500
+	
+[whits]
+	max = 3
+	bronze = 2
+	silver = 1
+	gold = 0
+	
+[coins]
+	bronze = 1
+	silver = 2
+	gold = 3
+	
+[complete]
+	medal = 1

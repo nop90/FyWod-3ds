@@ -1,0 +1,56 @@
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+B/B/B/B/B/B/B/B/B/B/B/B/B/B/B/B/B
+B//////////G///////G////////////B
+B///////////G//>//G/////////////B
+B///////////G/////G/////////////B
+B///////////G/////G/////////////B
+BG//////////G/////G////////////GB
+B/G/////////G/$///G///////////G/B
+B//G////////G//$//G//////////G//B
+B///GGGGGGGGG///$/GGGGGGGGGGG///B
+B///////////////////////////////B
+B/////////////////////////////$/B
+B///GGGGGGGGG/////GGGGGGGGGGG///B
+B//G////////G/#///G/////++//////B
+B/G/////////G////#G/////++//////B
+BG//////////G//#//G/////++///w##B
+B///////////G#///#G#####+///////B
+B/////////////<<</////////w//+/#B
+B///////////<<<<<<</##//////+/#/B
+B///////////<<<<<<<///$////+/#//B
+B/////////////<<<///////////////B
+B/B/B/B/B/B/B/B/B/B/B/B/B/B/B/B/B
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+
+
+[start]
+	direction = 270
+
+[size]
+	w = 33
+	h = 23
+	
+[[total]
+	bronze = 10000
+	silver = 25000
+	gold = 50000
+
+[time]
+	max = 12000
+	bronze = 8000
+	silver = 7000
+	gold = 6000
+	
+[whits]
+	max = 6
+	bronze = 4
+	silver = 3
+	gold = 2
+	
+[coins]
+	bronze = 2
+	silver = 3
+	gold = 4
+	
+[complete]
+	medal = 2

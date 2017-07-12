@@ -1,0 +1,67 @@
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+G/G/G/G/G/G/G/G/G/G/G/G/G/G/G/G
+GG////////////////+//////////GG
+G/////////$///////+//////W////G
+GG////////////////+//////////GG
+G///W/////////BBB/+///////////G
+GG/////////BBBBBBBBB/////////GG
+G///////BBBBBBBBBBBBBBB///////G
+GG//////BBBBBBBBBBBBBBB//////GG
+G///////BBBBBBBBBBBBBBB///$///G
+GG/////BBBBBBBBBBBBBBBBB/////GG
+G-////-BBBBBBBBBBBBBBBBB//////G
+GG/////BBBBBBBBBBBBBBBBB/+++/GG
+G//////BBBBBBBBBBBBBBBBB//////G
+GG////BBBBBBBBB+BBBBBBBBB////GG
+G/////BBBBBBBB+++BBBBBBBB/>///G
+GG++++BBBBBBBBB+BBBBBBBBB////GG
+G//////BBBBBBBBBBBBBBBBB//////G
+GG/////BBBBBBBBBBBBBBBBB/////GG
+G//////BBBBBBBBBBBBBBBBB//////G
+GG-///-BBBBBBBBBBBBBBBBB#####GG
+G///////BBBBBBBBBBBBBBB///////G
+GG//////BBBBBBBBBBBBBBB//////GG
+G///////BBBBBBBBBBBBBBB///////G
+GG/////////BBBBBBBBB///#/////GG
+G////$////////BBB<//////#/////G
+GG//////////////<<///////#///GG
+G///W//////$////<<////////#///G
+GG//////////////<</////////#/GG
+G/G/G/G/G/G/G/G/G/G/G/G/G/G/G/G
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+
+
+
+[start]
+	direction = 90
+	
+[size]
+	w = 31
+	h = 31
+	
+
+
+[total]
+	bronze = 12500
+	silver = 17500
+	gold = 25000
+
+[time]
+	max = 15000
+	bronze = 11000
+	silver = 9000
+	gold = 7000
+	
+[whits]
+	max = 6
+	bronze = 3
+	silver = 2
+	gold = 1
+	
+[coins]
+	bronze = 1
+	silver = 2
+	gold = 3
+	
+[complete]
+	medal = 1

@@ -1,0 +1,59 @@
+/RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR/
+R/////////////////$///////////////////////#R
+R////////////////////////////////////////++R
+R/$//RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR/+++R
+R///R//////////////////////////////////R//$R
+R///R//////////////////////////////////R///R
+R///R//////////RRRR///RRRRR////////////R///R
+R///R//////////RRRR//#RRRRR////////////R///R
+R///R///////RRRRRRR///RRRRRRRRR////////R///R
+R///R///////RRRRRRR///RRRRRRRRR++++++++R$//R
+R///R////RRRRRRRRRR#//RRRRRRRRRRRR+++++R///R
+R<<<R////RRRRRRRRRR///RRRRRRRRRRRR/////////R
+R<<<R/////$////////>//RGGGGGGGR////////////R
+R<<<R/////////$///////RGGGGGGGR////////R///R
+R///R////RRRRRRRRRR///RRRRRRRRRRRR+++++R///R
+R///R////RRRRRRRRRR//#RRRRRRRRRRRR+++++R///R
+R/$/R//////RRRRRRRR///RRRRRRRRR////////R///R
+R///R//////////RRRR#//RRRRR////////////R///R
+R///R//////////////////////////////////R///R
+R///R//////////////////////////////////R///R
+R////RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR////R
+R///////////////-//////////////////////////R
+R#/////////+////+/$////////////////////////R
+R#//////////////-//////////////////////////R
+/RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR/
+
+
+
+[start]
+	direction = 270
+
+[size]
+	w = 44
+	h = 25
+	
+[total]
+	bronze = 10000
+	silver = 25000
+	gold = 50000
+
+[time]
+	max = 22000
+	bronze = 18000
+	silver = 16000
+	gold = 15000
+	
+[whits]
+	max = 10
+	bronze = 8
+	silver = 6
+	gold = 3
+	
+[coins]
+	bronze = 1
+	silver = 2
+	gold = 4
+	
+[complete]
+	medal = 2

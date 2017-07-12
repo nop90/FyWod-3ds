@@ -1,0 +1,231 @@
+[map0]
+	name = A%first%Training
+	x = 0
+	y = 0
+	path0 = 4
+	path1 = 3
+	path2 = 2
+	path3 = 1
+
+
+[map1]
+	name = At%the%round%Table
+	x = -150
+	y = 150
+	path0 = 16
+
+	
+[map2]
+	name = Splitting%Roads
+	x = -50
+	y = 130
+	path0 = 13
+
+	
+[map3]
+	name = On%the%Graveyard
+	x = 60
+	y = 180
+	path0 = 11
+	
+	
+[map4]
+	name = El%Dorado
+	x = 160
+	y = 140
+	path0 = 5
+	
+
+[map5]
+	name = The%Dollar
+	x = 400
+	y = 250
+	
+	
+	
+[map6]
+	name = Not%built%yet
+	x = 600
+	y = 100
+	path0 = 5
+
+	
+[map7]
+	name = Not%built%yet
+	x = 250
+	y = -300
+	path0 = 6
+	path1 = 8
+	
+	
+	
+[map8]
+	name = Not%built%yet
+	x = 700
+	y = -150
+	path0 = 9
+
+	
+	
+[map9]
+	name = Not%built%yet
+	x = 700
+	y = 300
+	path0 = 10
+	
+	
+[map10]
+	name = Not%built%yet
+	x = 450
+	y = 430
+	path0 = 25
+	
+	
+	
+[map11]
+	name = The%giant%Skull
+	x = 110
+	y = 420
+	path0 = 10
+	path1 = 12
+	
+	
+[map12]
+	name = Unite%again
+	x = 0
+	y = 580	
+	
+	
+[map13]
+	name = A%long%Way
+	x = -40
+	y = 360
+	path0 = 12
+	path1 = 14
+	
+	
+[map14]
+	name = Too%fast?
+	x = -300
+	y = 480
+	path0 = 24
+	
+	
+[map15]
+	name = Trapped
+	x = -430
+	y = 370
+	path0 = 14	
+	
+
+[map16]
+	name = Through%the%wormhole
+	x = -220
+	y = 270
+	path0 = 15
+	
+	
+[map17]
+	name = Poisoned%Water
+	x = -370
+	y = 50
+	path0 = 16
+	path1 = 15
+
+	
+[map18]
+	name = Zickzack
+	x = -360
+	y = -250
+	path0 = 17
+	path1 = 19
+	
+	
+[map19]
+	name = Minus%Danger
+	x = -590
+	y = 450
+	path0 = 20
+	
+	
+[map20]
+	name = Snake%of%death
+	x = -330
+	y = 760
+	path0 = 21
+	
+	
+[map21]
+	name = Half%and%two%half
+	x = 50
+	y = 1000
+	path0 = 23
+	path1 = 22
+	
+	
+[map22]
+	name = Best%time%pt.%I
+	x = -120
+	y = 1200
+	
+	
+[map23]
+	name = Irritation
+	x = 140
+	y = 1250
+	
+
+[map24]
+	name = Twintop
+	x = 0
+	y = 820
+	path0 = 21
+	
+	
+[map25]
+	name = Crossed%Ways
+	x = 270
+	y = 630
+	path0 = 24
+	
+	
+[map26]
+	name = Snaky%Snail
+	x = 680
+	y = 690
+	path0 = 21
+	
+	
+[map27]
+	name = 2%Times%defeat
+	x = 980
+	y = 40
+	path0 = 26
+	
+
+[map28]
+	name = Wb.
+	x = 730
+	y = -400
+	path0 = 27	
+	
+	
+[map29]
+	name = Best%time%Pt.%II
+	x = 840
+	y = -620
+	path0 = 28	
+	
+	
+[map30]
+	name = Champions%Hall
+	x = 30
+	y = -550
+	path0 = 28
+	
+	
+	
+
+	
+	
+

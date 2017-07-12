@@ -1,0 +1,46 @@
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+RRRRRRRR////////////$////#/RRRRRRR
+RRRRRRRR////////$////////$/RRRRRRR
+RRRRRRRR////////////$//#///RRRRRRR
+RRRRRRRR////BBBBBBBBBBB//##RRRRRRR
+R///////////BBBBBBBBBBB/////////<R
+R//>////////BBBBBBBBBBB/////////<R
+R///////////BBBBBBBBBBB/////////<R
+RRRRRRRR/$//BBBBBBBBBBB//$/RRRRRRR
+RRRRRRRR////////---////////RRRRRRR
+RRRRRRRR///////////$///////RRRRRRR
+RRRRRRRR/////$/////////////RRRRRRR
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+
+[start]
+	direction = 0
+
+[size]
+	w = 34
+	h = 13
+	
+[total]
+	bronze = 12500
+	silver = 17500
+	gold = 25000
+
+[time]
+	max = 8000
+	bronze = 6000
+	silver = 5000
+	gold = 4000
+	
+[whits]
+	max = 5
+	bronze = 3
+	silver = 2
+	gold = 1
+	
+[coins]
+	bronze = 1
+	silver = 2
+	gold = 4
+	
+[complete]
+	medal = 1

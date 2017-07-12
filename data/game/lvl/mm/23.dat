@@ -1,0 +1,63 @@
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWw
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWw
+WWW/////WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWw
+WWW/>///WWWWWW//////////////////////////Ww
+WWW/////WWWWWW/$$$//////////////////////Ww
+WWW//////WWWW//$/WWWWWWWWWWWWWWWWWWWWWWWWw
+WWW+/////////////WWWWWWWWWWWWWWWWWWWWWWWWw
+WWW++/////////WWWWWWWWWWWWWWWWWWWWWWWWWWWw
+WWW/++/////////WWWWWWWWWWWWWWWWWWWWWWWWWWw
+WWW//++//WWW/////WWWWWWWWWWWWWWWWWWWWWWWWw
+WWW///++WWWW/////WWWWWWWWWWWWWWWWWWWWWWWWw
+WWW////+WWWW/////WWWWWWW//////$//////#WWWw
+WWW/////WWWW//$//WWWWWWW//////$///////WWWw
+WWW/////WWWW/////WWWWWWW///WWWWWWW////WWWw
+WWW/////WWWW/////WWWWWWW///WWWWWWW////WWWw
+WWW/////WWWW/////WWWWWWW///WWWWWWW-///#WWw
+WWW/////WWWW/////WWWWW/////WWWWWWW///WWWWw
+WWW/////WWWW//$//WWWWW/////WWWWWW#////WWWw
+WWW/////WWWW/////WWWWW/////#WWWWWWW///WWWw
+WWW/////WWWW/////WWWWW--///#WWWWWW////WWWw
+WWW/////WWWW//////WWWW--///WWWWWWW////#WWw
+WWW/////WWWWWW////WWWW/////WWWWWWW+++WWWWw
+WWW/////WWWWWWW///WWWW/////WWWWW//////WWWw
+WWW/////WWWWWWW/////////////WWWW//R///WWWw
+WWW/////WWWWWWW++///////////WW/<//////WWWw
+WWW/////WWWWWWW/////////////WW//<<////WWWw
+WWW/////WWWWWWW###WWWWWWWWWWWWWWWWWWWWWWWw
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWw
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWw
+
+
+
+[start]
+	direction = 315
+
+[size]
+	w = 42
+	h = 29
+	
+[[total]
+	bronze = 10000
+	silver = 25000
+	gold = 50000
+
+[time]
+	max = 20000
+	bronze = 18000
+	silver = 16000
+	gold = 14000
+	
+[whits]
+	max = 8
+	bronze = 5
+	silver = 3
+	gold = 2
+	
+[coins]
+	bronze = 2
+	silver = 4
+	gold = 5
+	
+[complete]
+	medal = 2

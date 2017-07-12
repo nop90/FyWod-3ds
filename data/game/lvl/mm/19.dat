@@ -1,0 +1,55 @@
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+G////---------------------------/////G
+G///-//$////////////////////////-----G
+G///-/////////////////////////////>//G
+G////-///----------------------------G
+G////-///-###########################G
+G////-///----------------------------G
+G////-/////////////++//////////////##G
+G////-/////////////++///////////////#G
+G////---------------------------/////G
+G/////RRRRRRRRRRRRRRRRRRRRRRRRR-/////G
+G/////WWWWWWWWWWWWWWWWWWWWWWWWW-//$//G
+G/////RRRRRRRRRRRRRRRRRRRRRRRRR-//-//G
+G/####WWWWWWWWWWWWWWWWWWWWWWWWW-//-//G
+G/------------------------------/////G
+G/#////////////////////////////$/////G
+G////////////////////$/////////$/////G
+G//////-#-#-#-#-#-#-#-#-#-#-#-#GGGGGGG
+G////////#/#/#/#/#/#/#/#/#/#/#////<//G
+G///$//////////////////////---////<//G
+G#/////////////////////////+++////<//G
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+
+
+[start]
+	direction = 270
+
+[size]
+	w = 38
+	h = 22
+	
+[[total]
+	bronze = 10000
+	silver = 25000
+	gold = 50000
+
+[time]
+	max = 24000
+	bronze = 18000
+	silver = 16000
+	gold = 15000
+	
+[whits]
+	max = 2
+	bronze = 2
+	silver = 1
+	gold = 0
+	
+[coins]
+	bronze = 2
+	silver = 3
+	gold = 4
+	
+[complete]
+	medal = 2
